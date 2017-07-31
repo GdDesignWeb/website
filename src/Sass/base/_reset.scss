@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+*,
+*:after,
+*:before { 
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+img {
+    max-width : 100%;
+}
+
+a {
+	text-decoration : none;
+	// color: #fdfdfd;
+	color: #474747;
+}
+
+a:hover {
+    text-decoration : underline;
+}

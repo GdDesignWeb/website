@@ -1,0 +1,10 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348 158">
+  <title>logo2</title>
+  <rect width="348" height="158" fill="none"/>
+  <g>
+    <polygon points="24 158 24 94 73 158 103 158 42 79 103 0 73 0 24 64 24 0 0 0 0 158 24 158" fill="#fff"/>
+    <polygon points="132 0 108 0 108 158 132 158 132 0" fill="#fff"/>
+    <path d="M174,158h29a36.91,36.91,0,0,0,37-37V0H216V116a17.93,17.93,0,0,1-18,18H180c-11,0-19-8-19-18V0H137V121A36.91,36.91,0,0,0,174,158Z" fill="#fff"/>
+    <polygon points="321 0 296 52 272 0 245 0 283 79 245 158 272 158 296 106 321 158 348 158 310 79 348 0 321 0" fill="#fff"/>
+  </g>
+</svg>
